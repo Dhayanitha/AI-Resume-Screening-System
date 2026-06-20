@@ -1,0 +1,81 @@
+[
+    {
+        "rank": 1,
+        "final_score": 0.7239550403176928,
+        "score_breakdown": {
+            "transformer": 0.8095574378967285,
+            "tfidf": 0.5305877378977614,
+            "skill": 0.8
+        },
+        "skill_matched": [
+            "data analysis",
+            "python",
+            "natural language processing",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "developer",
+            "experience",
+            "machine",
+            "learning",
+            "nlp",
+            "analysis",
+            "data",
+            "python"
+        ],
+        "summary": "This resume matches 4 key skills required for the job.",
+        "resume_preview": "Python Developer\n\nSkills:\nPython, Machine Learning, NLP, Deep Learning, Pandas, NumPy\n\nExperience:\n- Built NLP models fo",
+        "highlighted_resume": "<mark>python</mark> developer skill <mark>python</mark> <mark>machine learning</mark> nlp deep learning panda numpy experience built nlp model text classification sentiment analysis developed <mark>machine learning</mark> pipeline using scikit learn performed <mark>data analysis</mark> using panda numpy worked rest apis deployment",
+        "llm_Sumary": "LLM disabled for testing"
+    },
+    {
+        "rank": 2,
+        "final_score": 0.5334428199709667,
+        "score_breakdown": {
+            "transformer": 0.6613423824310303,
+            "tfidf": 0.27590542918483857,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "python",
+            "natural language processing",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "experience",
+            "nlp",
+            "python",
+            "learning"
+        ],
+        "summary": "This resume matches 3 key skills required for the job.",
+        "resume_preview": "AI Engineer\n\nSkills:\nPython, ML, NLP, Deep Learning\n\nExperience:\n- Built ML models for classification tasks\n- Worked on ",
+        "highlighted_resume": "ai engineer skill <mark>python</mark> ml nlp deep learning experience built ml model classification task worked nlp pipeline deployed model using apis",
+        "llm_Sumary": "LLM disabled for testing"
+    },
+    {
+        "rank": 3,
+        "final_score": 0.46263660854867183,
+        "score_breakdown": {
+            "transformer": 0.46034830808639526,
+            "tfidf": 0.37487484835158075,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "data analysis",
+            "python",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "experience",
+            "machine",
+            "learning",
+            "analysis",
+            "data",
+            "python"
+        ],
+        "summary": "This resume matches 3 key skills required for the job.",
+        "resume_preview": "Data Scientist\n\nSkills:\nPython, Machine Learning, Statistics, Data Visualization\n\nExperience:\n- Built predictive models ",
+        "highlighted_resume": "data scientist skill <mark>python</mark> <mark>machine learning</mark> statistic data visualization experience built predictive model using <mark>machine learning</mark> algorithm worked <mark>data analysis</mark> visualization used panda numpy matplotlib",
+        "llm_Sumary": "LLM disabled for testing"
+    }
+]

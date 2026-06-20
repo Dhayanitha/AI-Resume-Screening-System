@@ -1,0 +1,111 @@
+[
+    {
+        "rank": 1,
+        "final_score": 0.6491619694321751,
+        "score_breakdown": {
+            "transformer": 0.7320276498794556,
+            "tfidf": 0.44972677831321933,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "natural language processing",
+            "machine learning",
+            "python"
+        ],
+        "matched_keywords": [
+            "machine",
+            "experience",
+            "developer",
+            "python",
+            "learning"
+        ],
+        "summary": "Candidate matched 3 important skills including natural language processing, machine learning, python. Resume also shows relevant experience in machine, experience, developer.",
+        "highlighted_resume": "<mark>python</mark> developer skill <mark>python</mark> <mark>machine learning</mark> nlp deep learning panda numpy experience built nlp model text classification sentiment analysis developed <mark>machine learning</mark> pipeline using scikit learn performed data analysis using panda numpy worked rest apis deployment",
+        "llm_summary": "Matches 3 skills with score 0.65. Good fit for this role."
+    },
+    {
+        "rank": 2,
+        "final_score": 0.5497503376976866,
+        "score_breakdown": {
+            "transformer": 0.6229414343833923,
+            "tfidf": 0.2799273257336111,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "natural language processing",
+            "machine learning",
+            "python"
+        ],
+        "matched_keywords": [
+            "python",
+            "learning",
+            "experience"
+        ],
+        "summary": "Candidate matched 3 important skills including natural language processing, machine learning, python. Resume also shows relevant experience in python, learning, experience.",
+        "highlighted_resume": "ai engineer skill <mark>python</mark> ml nlp deep learning experience built ml model classification task worked nlp pipeline deployed model using apis",
+        "llm_summary": "Matches 3 skills with score 0.55. Good fit for this role."
+    },
+    {
+        "rank": 3,
+        "final_score": 0.3664835022163266,
+        "score_breakdown": {
+            "transformer": 0.39219754934310913,
+            "tfidf": 0.2558248034476607,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "machine learning",
+            "python"
+        ],
+        "matched_keywords": [
+            "python",
+            "machine",
+            "learning",
+            "experience"
+        ],
+        "summary": "Candidate matched 2 important skills including machine learning, python. Resume also shows relevant experience in python, machine, learning.",
+        "highlighted_resume": "data scientist skill <mark>python</mark> <mark>machine learning</mark> statistic data visualization experience built predictive model using <mark>machine learning</mark> algorithm worked data analysis visualization used panda numpy matplotlib",
+        "llm_summary": "Matches 2 skills with score 0.37. Good fit for this role."
+    },
+    {
+        "rank": 4,
+        "final_score": 0.3397199190596822,
+        "score_breakdown": {
+            "transformer": 0.3964579701423645,
+            "tfidf": 0.10922564016783368,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "natural language processing",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "learning",
+            "machine",
+            "experience"
+        ],
+        "summary": "Candidate matched 2 important skills including natural language processing, machine learning. Resume also shows relevant experience in learning, machine, experience.",
+        "highlighted_resume": "atticus work experience <mark>machine learning</mark> architect hawthorn hulu <mark>machine learning</mark> 2019 current santa monica ca architect implemented opencv powered video analysis tool reduced content classification time 2 6 hour enhancing content discovery feature hawthorn email com devised gridsearchcv framework optimize 123 456 7890 hyperparameters boosting model performance benchmark santa monica ca 12 targeted advertising algorithm linkedin engineered flask based rest api analytics",
+        "llm_summary": "Matches 2 skills with score 0.34. Good fit for this role."
+    },
+    {
+        "rank": 5,
+        "final_score": 0.33454895915848104,
+        "score_breakdown": {
+            "transformer": 0.3986971974372864,
+            "tfidf": 0.0766531736782237,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "sql",
+            "python"
+        ],
+        "matched_keywords": [
+            "python",
+            "experience"
+        ],
+        "summary": "Candidate matched 2 important skills including sql, python. Resume also shows relevant experience in python, experience.",
+        "highlighted_resume": "joseph corbin certified data analyst foundation statistical analysis <mark>python</mark> programming data visualization adept utilizing <mark>sql</mark> data management tool interpret large datasets support business intelligence effort enhance reporting capability personal information professional experience 123 456 7890 data analyst intern cadence technology austin tx josephcorbin example com february 2024 november 2024 analyzed customer engagement metric using <mark>sql</mark> tableau created ",
+        "llm_summary": "Matches 2 skills with score 0.33. Good fit for this role."
+    }
+]

@@ -1,0 +1,10 @@
+Python Developer
+
+Skills:
+Python, Machine Learning, NLP, Deep Learning, Pandas, NumPy
+
+Experience:
+- Built NLP models for text classification and sentiment analysis
+- Developed machine learning pipelines using scikit-learn
+- Performed data analysis using Pandas and NumPy
+- Worked with REST APIs for deployment

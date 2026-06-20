@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.env
+
+output/*.json
+
+.streamlit/
+
+.vscode/
+
+*.db-journal
+
+.ipynb_checkpoints/
+
+venv/
+resume_nlp/

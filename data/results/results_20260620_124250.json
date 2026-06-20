@@ -1,0 +1,79 @@
+[
+    {
+        "rank": 1,
+        "final_score": 0.3094003751284917,
+        "score_breakdown": {
+            "transformer": 0.3493421971797943,
+            "tfidf": 0.09897526920191431,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "sql",
+            "python"
+        ],
+        "matched_keywords": [
+            "python"
+        ],
+        "summary": "Candidate matched 2 important skills including sql, python. Resume also shows relevant experience in python.",
+        "highlighted_resume": "joseph corbin certified data analyst foundation statistical analysis <mark>python</mark> programming data visualization adept utilizing <mark>sql</mark> data management tool interpret large datasets support business intelligence effort enhance reporting capability personal information professional experience 123 456 7890 data analyst intern cadence technology austin tx josephcorbin example com february 2024 november 2024 analyzed customer engagement metric using <mark>sql</mark> tableau created ",
+        "llm_summary": "Matches 2 skills with score 0.31. Good fit for this role."
+    },
+    {
+        "rank": 2,
+        "final_score": 0.2741749327134758,
+        "score_breakdown": {
+            "transformer": 0.3134113848209381,
+            "tfidf": 0.030640449499920022,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "sql",
+            "python"
+        ],
+        "matched_keywords": [
+            "python"
+        ],
+        "summary": "Candidate matched 2 important skills including sql, python. Resume also shows relevant experience in python.",
+        "highlighted_resume": "k n c e l u r data scientist contact work experience kloudor email com data scientist 123 456 7890 grubhub mount laurel nj june 2025 current princeton nj linkedin modeled delivery demand pattern numpy improving github forecast precision 12 8 across high volume order window refined courier merchant datasets panda cutting education weekly data prep time 3 7 hour recurring modeling cycle b trained ranking workflow scikit learn lowering average statistic scoring latency 284 millisecond experiment ru",
+        "llm_summary": "Matches 2 skills with score 0.27. Good fit for this role."
+    },
+    {
+        "rank": 3,
+        "final_score": 0.26976034057737885,
+        "score_breakdown": {
+            "transformer": 0.23157896101474762,
+            "tfidf": 0.05406479004032909,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "machine learning",
+            "sql",
+            "python"
+        ],
+        "matched_keywords": [
+            "python"
+        ],
+        "summary": "Candidate matched 3 important skills including machine learning, sql, python. Resume also shows relevant experience in python.",
+        "highlighted_resume": "john bergsen dynamic data analyst five year experience specializing data visualization statistical modeling data analytics proven track record uncovering insight inform business decision drive positive financial result personal information professional experience senior data analyst april 2018 present 123 456 7890 morgan analytics new york ny perform advanced data modeling portfolio client account valued email example com 200 000 design interactive dashboard tableau identify creative way enhance",
+        "llm_summary": "Matches 3 skills with score 0.27. Good fit for this role."
+    },
+    {
+        "rank": 4,
+        "final_score": 0.21373700937735562,
+        "score_breakdown": {
+            "transformer": 0.21492350101470947,
+            "tfidf": 0.023914484238004782,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "sql",
+            "python"
+        ],
+        "matched_keywords": [
+            "python"
+        ],
+        "summary": "Candidate matched 2 important skills including sql, python. Resume also shows relevant experience in python.",
+        "highlighted_resume": "yunlong jiao london uk nosponsorshipneeded 447400724281 yljiao ustc gmail com machinelearningscientist linkedin com yunlong jiao iamcurrentlyamachinelearningscientistatamazonalexa workingonbuildingaiassistantthatisabletoreplicatehuman intelligence iampassionateaboutappliedairesearchthatdrivestangibleimpactforproductsandservices withover5years ofpost phdexperienceinthefieldofml ai ipossessstrongskillsinmodeldevelopmentandperformanceevaluation amproficientinpythonanddeeplearningframeworks whilesuc",
+        "llm_summary": "Matches 2 skills with score 0.21. Good fit for this role."
+    }
+]

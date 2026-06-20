@@ -1,0 +1,105 @@
+[
+    {
+        "rank": 1,
+        "final_score": 0.6201821985542614,
+        "score_breakdown": {
+            "transformer": 0.6573863625526428,
+            "tfidf": 0.5287518455087337,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "python",
+            "natural language processing",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "learning",
+            "python",
+            "machine"
+        ],
+        "summary": "Candidate matched 3 important skills including python, natural language processing, machine learning. Resume also shows relevant experience in learning, python, machine.",
+        "highlighted_resume": "<mark>python</mark> developer skill <mark>python</mark> <mark>machine learning</mark> nlp deep learning panda numpy experience built nlp model text classification sentiment analysis developed <mark>machine learning</mark> pipeline using scikit learn performed data analysis using panda numpy worked rest apis deployment",
+        "llm_summary": "Matches 3 skills with score 0.62. Good fit for this role."
+    },
+    {
+        "rank": 2,
+        "final_score": 0.541040107480597,
+        "score_breakdown": {
+            "transformer": 0.5820060968399048,
+            "tfidf": 0.35918215747630367,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "python",
+            "natural language processing",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "learning",
+            "python"
+        ],
+        "summary": "Candidate matched 3 important skills including python, natural language processing, machine learning. Resume also shows relevant experience in learning, python.",
+        "highlighted_resume": "ai engineer skill <mark>python</mark> ml nlp deep learning experience built ml model classification task worked nlp pipeline deployed model using apis",
+        "llm_summary": "Matches 3 skills with score 0.54. Good fit for this role."
+    },
+    {
+        "rank": 3,
+        "final_score": 0.3193777247895355,
+        "score_breakdown": {
+            "transformer": 0.2898268699645996,
+            "tfidf": 0.32740795444923404,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "python",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "learning",
+            "python",
+            "machine"
+        ],
+        "summary": "Candidate matched 2 important skills including python, machine learning. Resume also shows relevant experience in learning, python, machine.",
+        "highlighted_resume": "data scientist skill <mark>python</mark> <mark>machine learning</mark> statistic data visualization experience built predictive model using <mark>machine learning</mark> algorithm worked data analysis visualization used panda numpy matplotlib",
+        "llm_summary": "Matches 2 skills with score 0.32. Good fit for this role."
+    },
+    {
+        "rank": 4,
+        "final_score": 0.3094003751284917,
+        "score_breakdown": {
+            "transformer": 0.3493421971797943,
+            "tfidf": 0.09897526920191431,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "sql",
+            "python"
+        ],
+        "matched_keywords": [
+            "python"
+        ],
+        "summary": "Candidate matched 2 important skills including sql, python. Resume also shows relevant experience in python.",
+        "highlighted_resume": "joseph corbin certified data analyst foundation statistical analysis <mark>python</mark> programming data visualization adept utilizing <mark>sql</mark> data management tool interpret large datasets support business intelligence effort enhance reporting capability personal information professional experience 123 456 7890 data analyst intern cadence technology austin tx josephcorbin example com february 2024 november 2024 analyzed customer engagement metric using <mark>sql</mark> tableau created ",
+        "llm_summary": "Matches 2 skills with score 0.31. Good fit for this role."
+    },
+    {
+        "rank": 5,
+        "final_score": 0.3009189598412202,
+        "score_breakdown": {
+            "transformer": 0.30908411741256714,
+            "tfidf": 0.17734240226491577,
+            "skill": 0.4
+        },
+        "skill_matched": [
+            "natural language processing",
+            "machine learning"
+        ],
+        "matched_keywords": [
+            "learning",
+            "machine"
+        ],
+        "summary": "Candidate matched 2 important skills including natural language processing, machine learning. Resume also shows relevant experience in learning, machine.",
+        "highlighted_resume": "e l w e n g r av e ai ml product manager contact work experience e graf email com ai ml product manager 123 456 7890 zillow seattle wa 2022 current seattle wa linkedin implemented automl feature google cloud ai streamlining model development reducing average development time 27 hour project upgraded pricing algorithm using h2o ai automl increasing quarterly education revenue 2 4m targeting listing enhancement master science led development <mark>machine learning</mark> model using tensorflow inc",
+        "llm_summary": "Matches 2 skills with score 0.3. Good fit for this role."
+    }
+]

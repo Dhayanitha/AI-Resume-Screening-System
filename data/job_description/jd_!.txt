@@ -1,0 +1,31 @@
+The Job Overview
+
+We are seeking a data scientist to join our business intelligence team to help us make better business decisions based on our data. The ideal candidate will have a working knowledge of statistics, mathematics, and data science programming languages (e.g., SQL, R, Python).
+
+Your primary responsibilities will be performing statistical analyses, running custom SQL queries,  and identifying patterns and trends that can improve our products’ and services’ efficiency and usability. You will also be expected to maintain and improve our data infrastructure and tools.
+
+Responsibilities
+
+Below are some of the responsibilities a data scientist is expected to assume in their position:  
+
+Work with stakeholders to identify key metrics and opportunities for improving business processes, products, and services
+Build, deploy, and maintain data management systems and back-end data infrastructure for our business intelligence pipeline
+Perform data mining, exploration, and analysis 
+Create data visualizations, reports, dashboards, and data audits
+Design, train, and implement machine learning algorithms
+Leverage predictive models to optimize customer experiences
+Creating automated anomaly detection
+Job Qualifications and Skill Sets
+
+Below are the qualifications expected of a data scientist:
+
+Bachelor's degree in data science, data analytics, or related field
+Master’s degree or Ph.D. in a quantitative field, such as statistics, computer science, mathematics, or engineering
+Proficiency in Python, Java, or Kotlin
+Knowledge of data science toolkits such as R, NumPy, and MatLab
+Experience with big data analytics technologies such as Spark and Hadoop
+Experience with data visualization tools such as D3.js and Tableau
+Expertise in data mining and machine learning
+Working knowledge of statistical models and business intelligence
+Familiarity with cloud-based infrastructure
+Ability to store and process unstructured data with NoSQL databases and machine learning models

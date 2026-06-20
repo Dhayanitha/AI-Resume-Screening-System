@@ -1,0 +1,45 @@
+[
+    {
+        "rank": 1,
+        "final_score": 0.6201821985542614,
+        "score_breakdown": {
+            "transformer": 0.6573863625526428,
+            "tfidf": 0.5287518455087337,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "natural language processing",
+            "machine learning",
+            "python"
+        ],
+        "matched_keywords": [
+            "learning",
+            "machine",
+            "python"
+        ],
+        "summary": "Candidate matched 3 important skills including natural language processing, machine learning, python. Resume also shows relevant experience in learning, machine, python.",
+        "highlighted_resume": "<mark>python</mark> developer skill <mark>python</mark> <mark>machine learning</mark> nlp deep learning panda numpy experience built nlp model text classification sentiment analysis developed <mark>machine learning</mark> pipeline using scikit learn performed data analysis using panda numpy worked rest apis deployment",
+        "llm_summary": "Matches 3 skills with score 0.62. Good fit for this role."
+    },
+    {
+        "rank": 2,
+        "final_score": 0.541040107480597,
+        "score_breakdown": {
+            "transformer": 0.5820060968399048,
+            "tfidf": 0.35918215747630367,
+            "skill": 0.6
+        },
+        "skill_matched": [
+            "natural language processing",
+            "machine learning",
+            "python"
+        ],
+        "matched_keywords": [
+            "learning",
+            "python"
+        ],
+        "summary": "Candidate matched 3 important skills including natural language processing, machine learning, python. Resume also shows relevant experience in learning, python.",
+        "highlighted_resume": "ai engineer skill <mark>python</mark> ml nlp deep learning experience built ml model classification task worked nlp pipeline deployed model using apis",
+        "llm_summary": "Matches 3 skills with score 0.54. Good fit for this role."
+    }
+]

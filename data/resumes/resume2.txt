@@ -1,0 +1,9 @@
+Data Scientist
+
+Skills:
+Python, Machine Learning, Statistics, Data Visualization
+
+Experience:
+- Built predictive models using machine learning algorithms
+- Worked on data analysis and visualization
+- Used Pandas, NumPy and Matplotlib

@@ -1,0 +1,9 @@
+Backend Developer
+
+Skills:
+Java, Spring Boot, REST API, Microservices
+
+Experience:
+- Developed backend systems using Spring Boot
+- Built REST APIs and microservices
+- Worked with databases and cloud deployment

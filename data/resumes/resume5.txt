@@ -1,0 +1,9 @@
+AI Engineer
+
+Skills:
+Python, ML, NLP, Deep Learning
+
+Experience:
+- Built ML models for classification tasks
+- Worked on NLP pipelines
+- Deployed models using APIs

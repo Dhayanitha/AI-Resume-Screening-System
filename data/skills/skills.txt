@@ -1,0 +1,19 @@
+python
+java
+machine learning
+deep learning
+natural language processing
+nlp
+data analysis
+sql
+pandas
+numpy
+tensorflow
+pytorch
+scikit-learn
+statistics
+data visualization
+spring boot
+microservices
+rest api
+artificial intelligence

@@ -1,0 +1,38 @@
+Machine Learning Developer - Job Description
+Role Overview
+We are seeking a highly skilled Machine Learning (ML) Developer to join our engineering team. You will be responsible for designing, building, and deploying robust ML models and systems. Your role involves transforming data into actionable insights and integrating AI capabilities into our core products to solve complex real-world problems.
+
+Key Responsibilities
+Model Development: Design and implement end-to-end ML pipelines, including data collection, preprocessing, feature engineering, and model training.
+
+Algorithm Research: Research and apply state-of-the-art algorithms in supervised, unsupervised, and reinforcement learning.
+
+System Integration: Deploy ML models into production environments, ensuring scalability, low latency, and reliability.
+
+Performance Optimization: Conduct rigorous testing and validation; tune hyperparameters to optimize model accuracy and efficiency.
+
+Collaboration: Work closely with Data Scientists, Software Engineers, and Product Managers to align ML solutions with business objectives.
+
+Monitoring: Implement monitoring tools to track model performance and data drift in production.
+
+Required Skills & Qualifications
+Education: Bachelor’s or Master’s degree in Computer Science, Mathematics, Statistics, or a related field.
+
+Programming: Strong proficiency in Python or C++, with deep knowledge of libraries such as NumPy and Pandas.
+
+ML Frameworks: Hands-on experience with frameworks like PyTorch, TensorFlow, or Scikit-learn.
+
+Mathematics: Strong understanding of linear algebra, calculus, statistics, and probability.
+
+Data Engineering: Experience with SQL and NoSQL databases; familiarity with Big Data tools (e.g., Spark, Hadoop) is a plus.
+
+Cloud & DevOps: Experience with cloud platforms (AWS, GCP, or Azure) and containerization tools like Docker and Kubernetes.
+
+Preferred Attributes
+Proven track record of deploying ML models that have a measurable impact.
+
+Strong analytical and problem-solving mindset.
+
+Excellent communication skills to explain complex technical concepts to non-technical stakeholders.
+
+Curiosity for staying updated with the latest AI trends and research papers.
